@@ -1,0 +1,7 @@
+C:\Code_Base\DS\DS\bin\Debug\DS.exe.config
+C:\Code_Base\DS\DS\bin\Debug\DS.exe
+C:\Code_Base\DS\DS\bin\Debug\DS.pdb
+C:\Code_Base\DS\DS\obj\Debug\DS.csproj.AssemblyReference.cache
+C:\Code_Base\DS\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Code_Base\DS\DS\obj\Debug\DS.exe
+C:\Code_Base\DS\DS\obj\Debug\DS.pdb
